@@ -86,7 +86,7 @@ pageviews:
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
-# Notice that once it is assigned, the CDN url
+# Notice thagit t once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
