@@ -52,4 +52,7 @@ It provides a simplified view of data through three levels:
 3. view level(users interaction)
 
 
+specialization-an employee can be a tester or a developer
+attributes inheritance-
+
 
