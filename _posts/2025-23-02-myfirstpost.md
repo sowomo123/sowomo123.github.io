@@ -27,6 +27,7 @@ Data models can be classified into 4 categories:
 Used for identifying entities and attributes to be represented in the database
 Shows how different entities are related to each other
 
+[![ERm](../ERM.jpg)]
 
 2.Semi-structured Data Model
 Contains tags or markers to separate data elements
