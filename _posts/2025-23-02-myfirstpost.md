@@ -42,8 +42,7 @@ Follow object-oriented programming principles
 4.Relational Model
 The most widely used data model for databases
 Organizes data into tables with rows and columns
-![alt text](Object.png)
-
+(![alt text](Object.png))
 
 Data Abstraction allows users to interact with the database without needing to understand complex details. 
 It provides a simplified view of data through three levels:
@@ -51,12 +50,14 @@ It provides a simplified view of data through three levels:
 1. Physical Level (storage and retrieval mechanisum)
 2. Logical level (Data structure and relationship)
 3. view level(users interaction)
+(![alt text](../pictures/me.jpg))
 
 
 specialization-an employee can be a tester or a developer
-attributes inheritance-
 
 home work
-Difference between data and database
+Draw An entity relationship diagram for the studen registration system at CST
 ![alt text](../ERM.jpg)
+
+
 
