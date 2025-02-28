@@ -1,5 +1,3 @@
-![]
-
 ---
 title: DBS101 unit1
 categories:[DBS101,unit_1]
