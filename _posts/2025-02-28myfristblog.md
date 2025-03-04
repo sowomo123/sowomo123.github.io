@@ -26,23 +26,19 @@ Data models can be classified into 4 categories:
 1.Entity-Relationship Model
 Used for identifying entities and attributes to be represented in the database
 Shows how different entities are related to each other
-![alt text](<../pictures/1st pic.png>)
 
 2.Semi-structured Data Model
 Contains tags or markers to separate data elements
 Examples include JSON and XML
-![alt text](../pictures/R.jpg)
 
 
 3.Object-Based Data Models
 Represent data in the form of objects
 Follow object-oriented programming principles
-![alt text](../pictures/Object.png)
 
 4.Relational Model
 The most widely used data model for databases
 Organizes data into tables with rows and columns
-(![alt text](../pictures/Object.png))
 
 Data Abstraction allows users to interact with the database without needing to understand complex details. 
 It provides a simplified view of data through three levels:
@@ -50,14 +46,11 @@ It provides a simplified view of data through three levels:
 1. Physical Level (storage and retrieval mechanisum)
 2. Logical level (Data structure and relationship)
 3. view level(users interaction)
-(![alt text](../pictures/me.jpg))
+
 
 
 specialization-an employee can be a tester or a developer
 
-home work
-Draw An entity relationship diagram for the studen registration system at CST
-![alt text](../ERM.jpg)
 
 
 
