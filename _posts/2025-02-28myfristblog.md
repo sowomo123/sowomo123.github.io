@@ -49,7 +49,7 @@ It provides a simplified view of data through three levels:
 
 
 
-specialization-an employee can be a tester or a developer
+specialization-an employee can be a tester or a developer.
 
 
 
