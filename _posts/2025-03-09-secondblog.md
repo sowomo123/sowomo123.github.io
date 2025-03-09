@@ -6,11 +6,11 @@ tags: [DBS101]
 
 ### Topic : Entity Relationship Model
 1. Entity: “thing” or “object” in the real world., it is represented by a trangular shape.
-avatar:![alt text](image.png)
+![alt text](image.png)
 2. Attributes: Attributes are descriptive properties, it is represented by oval shape.
-avater:![alt text](image-1.png)
+![alt text](image-1.png)
 3. Relationship: A relationship is an association among several entities, it is represented by dimond shape.
-avater:![alt text](image-2.png)
+![alt text](image-2.png)
 
 Prmiary Key is used as an identifying mechanism for whole entity set.
 -Entity sets require unique identification of entities -Attributes must uniquely identify each entity
@@ -40,14 +40,14 @@ Mapping cardinalities
 
 6. Unary Relationship (Recursive): A relationship between entities of the same entity set.
 
-avater:![alt text](image-3.png)
+![alt text](image-3.png)
 
 weak entities; A weak entity is an entity type that does not have its own primary key.
 
 home work
 Draw an entity relationship diagram for the student 
 registration system at CST
-avater;![alt text](<WhatsApp Image 2025-03-09 at 10.37.00_bac80825.jpg>)
+![alt text](<WhatsApp Image 2025-03-09 at 10.37.00_bac80825.jpg>)
 
 Constraints on Specialisation/ Generalisation
 1. Membership constraints
