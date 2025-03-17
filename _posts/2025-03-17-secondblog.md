@@ -6,8 +6,16 @@ tags: [DBS101]
 
 ### Topic : Entity Relationship Model
 1. Entity: “thing” or “object” in the real world., it is represented by a trangular shape.
+![entity](image.png)
+
+
 2. Attributes: Attributes are descriptive properties, it is represented by oval shape.
+
+![attributes](attributes.png)
+
+
 3. Relationship: A relationship is an association among several entities, it is represented by dimond shape.
+![relatopnal](relation.png)
 
 Prmiary Key is used as an identifying mechanism for whole entity set.
 -Entity sets require unique identification of entities -Attributes must uniquely identify each entity
@@ -36,6 +44,8 @@ Mapping cardinalities
 5. Ternary Relationships: A relationship type that involves three entity sets.
 
 6. Unary Relationship (Recursive): A relationship between entities of the same entity set.
+
+![relational](relation.png)
 
 
 weak entities; A weak entity is an entity type that does not have its own primary key.
@@ -79,3 +89,55 @@ Reducing E-R Diagrams to Relational Schemas
 3.Convert Composite Attributes
 4.Ignore Derived Attributes
 5.Convert Relationship Sets
+
+lesson 6
+
+Relational Query Languages -It enables users to query a database for specific information without delving into the technical implementation details.
+ these are the catagories;
+
+1. Imperative Query Language: Specifies the exact steps for retrieving the desired data (e.g., Relational Algebra).
+
+2. Functional Query Language: Utilizes the evaluation of functions operating on data (e.g., SQL with advanced function calls).
+
+3. Declarative Query Language: it describs what information is needed without detailing how to retrieve it (e.g., SQL).
+
+Relational Algebra -It provides a foundation for SQL and is used to describe operations on relations (tables) in a database.
+
+1. Selection (σ)
+Retrieves rows (tuples) that satisfy a certain condition.
+
+
+
+2. Projection (π)
+Extracts specific columns (attributes) from a table.
+
+
+
+3. Union (∪)
+Combines tuples from two relations, removing duplicates.
+
+
+
+4. Intersection (∩)
+Finds common tuples between two relations.
+
+
+
+5. Set Difference (−)
+Finds tuples in one relation but not in another.
+
+
+
+6. Cartesian Product (×)
+Combines every tuple of one relation with every tuple of another.
+
+
+
+7. Join (⋈)
+Combines tuples from two relations based on a related attribute.
+
+
+
+8. Division (÷)
+Used for queries with "all" conditions (e.g., finding employees who work on all projects).
+
