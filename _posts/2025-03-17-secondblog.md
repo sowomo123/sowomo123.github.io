@@ -4,18 +4,18 @@ categories:[DBS101,unit_2]
 tags: [DBS101]
 ---
 
-### Topic : Entity Relationship Model
+### Topic : unit 2 Entity Relationship Model
 1. Entity: “thing” or “object” in the real world., it is represented by a trangular shape.
-![entity](image.png)
+
 
 
 2. Attributes: Attributes are descriptive properties, it is represented by oval shape.
 
-![attributes](attributes.png)
+
 
 
 3. Relationship: A relationship is an association among several entities, it is represented by dimond shape.
-![relatopnal](relation.png)
+
 
 Prmiary Key is used as an identifying mechanism for whole entity set.
 -Entity sets require unique identification of entities -Attributes must uniquely identify each entity
@@ -45,7 +45,6 @@ Mapping cardinalities
 
 6. Unary Relationship (Recursive): A relationship between entities of the same entity set.
 
-![relational](relation.png)
 
 
 weak entities; A weak entity is an entity type that does not have its own primary key.
