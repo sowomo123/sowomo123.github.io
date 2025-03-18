@@ -78,6 +78,7 @@ Relational Model Structure - it structures data in a way that is both intuitive 
 5. Database instance- snapshot of the database at a given instance of time
 
 lesson 5
+
 ERD to Relational Schema
 involves translating the entities, relationships, and attributes represented in the ERD into a set of tables that can be implemented in a relational database.
 
